@@ -28,4 +28,5 @@ YOLOv8 Object Detection &amp; Image Segmentation Implementation (Easy Steps)
 
 
 ## Create Conda Environment
-https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt
+- conda create –n yolov8 python=3.9
+- conda activate yolov8
