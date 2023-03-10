@@ -4,6 +4,7 @@ YOLOv8 Object Detection &amp; Image Segmentation Implementation (Easy Steps)
 ## Functions
 - Object Detection 
 - Image Segmentation
+- [Document](https://docs.ultralytics.com/)
 
 ## Download Yolov8 Weights
 - Download the pretrained YOLOv8 weights or you can use your own custom trained weights, and paste it in the main folder.
