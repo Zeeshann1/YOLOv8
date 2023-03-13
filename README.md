@@ -95,9 +95,11 @@ model.predict(source="C:/Users/zeeshan/Downloads/yolov8/Data/Images", show=True,
   # Results
   ### Object Detection
    <p>
- <img src="Results/2.jpg"/>  <img src="Results/4.jpg"/> 
+ <img width="320" src="Results/4.jpg">
+ <img width="320" src="Results/2.jpg">   
 
  ### Image Segmentation
    <p>
- <img src="Results/1.jpg"/> <img src="Results/3.jpg"/> 
-
+ <img width="320" src="Results/3.jpg"> 
+ <img width="320" src="Results/1.jpg"> 
+     
