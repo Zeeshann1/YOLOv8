@@ -1,5 +1,8 @@
 # YOLOv8
-YOLOv8 Object Detection &amp; Image Segmentation Implementation (Easy Steps)
+YOLOv8 Object Detection &amp; Image Segmentation Implementation (Easy Steps) </p>
+
+ #### Object Detection & Segmentation Concept
+<img width="320" src="segmentation.png"> 
 
 ## Functions
 - Object Detection 
