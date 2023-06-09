@@ -107,4 +107,14 @@ model.predict(source="C:/Users/zeeshan/Downloads/yolov8/Data/Images", show=True,
    <p>
  <img width="320" src="Results/3.jpg"> 
  <img width="320" src="Results/1.jpg"> 
+    
+    
+ ### References
+ - https://docs.ultralytics.com/
+ - https://github.com/ultralytics/ultralytics
+ - https://pypi.org/project/ultralytics/
+ - [Google Colab Notebook](https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb#scrollTo=X58w8JLpMnjH)
+    
+    
+    
      
