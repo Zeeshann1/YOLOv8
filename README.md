@@ -114,6 +114,7 @@ model.predict(source="C:/Users/zeeshan/Downloads/yolov8/Data/Images", show=True,
  - https://github.com/ultralytics/ultralytics
  - https://pypi.org/project/ultralytics/
  - [Google Colab Notebook](https://colab.research.google.com/github/ultralytics/ultralytics/blob/main/examples/tutorial.ipynb#scrollTo=X58w8JLpMnjH)
+ - [YOLOv8 Models](https://github.com/keremberke/awesome-yolov8-models)
     
     
     
