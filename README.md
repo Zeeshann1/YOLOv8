@@ -39,16 +39,14 @@ YOLOv8 Object Detection &amp; Image Segmentation Implementation (Easy Steps) </p
 conda create –n yolov8 python=3.9
 conda activate yolov8
 ```
-<details open>
-<summary>Install</summary>
+### Install
   
 - Pip install the ultralytics package including all requirements.txt 
-  
+
 ```
 pip install ultralytics
 ```  
-  <details open>
-<summary>CLI</summary>
+### CLI
     
    - Run yolov8 directly on Command Line Interface (CLI) with commands mentioned below. It has various hyperparameters and configurations.
   
@@ -64,7 +62,7 @@ pip install ultralytics
   yolo task=detect mode=predict model=yolov8s.pt source='C:\Users\zeeshan\Desktop\yolov8'  #Object Detection on directory 
   ```
   
-## Main Code Python
+### Main Code Python
 - Use any model and source just uncomment it and run file on conda environment.
     
 ```
